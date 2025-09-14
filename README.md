@@ -1,16 +1,27 @@
-## Hi there 👋
+## 🔧 DevOps & Cloud Engineering
 
-<!--
-**abdulmoizz44/abdulmoizz44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m passionate about designing scalable, automated, and resilient infrastructure that empowers teams to deliver software faster and more reliably.  
+Here’s what I focus on:
 
-Here are some ideas to get you started:
+### ☁️ **Cloud Infrastructure**
+- **Cloud Providers:** AWS, GCP – designing and managing cost-efficient, secure, and highly available infrastructure.
+- **Infrastructure as Code:** Terraform & Pulumi – version-controlled, reproducible infrastructure deployments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ **Automation & Orchestration**
+- **Containerization:** Docker for lightweight, portable applications.
+- **Orchestration:** Kubernetes (K8s) for running and scaling containerized workloads.
+- **Configuration Management:** Ansible & Helm Charts to automate provisioning and manage application lifecycles.
+
+### 🚀 **CI/CD Pipelines**
+- **Pipeline Tools:** GitHub Actions, GitLab CI, Jenkins.
+- **Best Practices:** Automating builds, tests, and deployments to improve release velocity and reliability.
+
+### 📊 **Monitoring & Observability**
+- **Tools:** Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana).
+- **Goal:** Ensure visibility, track metrics, and proactively detect issues before they impact users.
+
+### 🔒 **Security & Reliability**
+- **Practices:** Implementing secrets management (Vault, SSM), automated backups, and security scanning in pipelines.
+- **Approach:** Shift-left security and resilience testing (chaos engineering mindset).
+
+---
